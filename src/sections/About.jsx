@@ -12,12 +12,12 @@ export default function About() {
         <p className="text-lg text-gray-300 leading-relaxed">
           Hello! I'm{' '}
           <span className="font-semibold text-orange-300 hover:text-orange-400 transition">
-            Thenvanathi V
+            B. Mohamed Al Ashik
           </span>, a committed MERN Stack Developer with a passion for building full-stack web applications. I specialize in React.js, Node.js, Express.js, and MongoDB, and I love crafting sleek, responsive UIs with Tailwind CSS.
         </p>
 
         <p className="text-lg text-gray-300 leading-relaxed mt-4">
-          I’ve created impactful projects like a complete E-commerce platform, a bulk email manager, and a recipe app. I focus on delivering clean code, smooth UX, and reliable backend systems—ready to take on real-world challenges.
+          I’ve created impactful projects like a complete E-commerce platform, a bulk email manager . I focus on delivering clean code, smooth UX, and reliable backend systems—ready to take on real-world challenges.
         </p>
       </div>
     </section>

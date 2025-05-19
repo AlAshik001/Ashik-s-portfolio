@@ -99,7 +99,7 @@ export default function Contact() {
         {/* Contact Icons */}
         <div className="flex justify-center gap-8 text-2xl text-orange-300 mt-10">
           <a
-            href="https://github.com/Thenvanathi"
+            href="https://github.com/AlAshik001"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition"
@@ -107,7 +107,7 @@ export default function Contact() {
             <FaGithub />
           </a>
           <a
-            href="https://www.linkedin.com/in/thenvanathi-v/"
+            href="https://www.linkedin.com/in/alashik/"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-white transition"
@@ -115,7 +115,7 @@ export default function Contact() {
             <FaLinkedin />
           </a>
           <a
-            href="mailto:thenvanathi2003@gmail.com"
+            href="mailto:alashik0009@gmail.com"
             className="hover:text-white transition"
           >
             <FaEnvelope />

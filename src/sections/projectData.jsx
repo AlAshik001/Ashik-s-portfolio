@@ -24,7 +24,7 @@ const projectData = [
   {
     title: "E-commerce Site",
     img: P1,
-    link: "https://mern-ecommerce-lilac.vercel.app",
+    link: "https://rabbit-e-commerce-rc5e.vercel.app/",
     tools: ["MERN Stack", "JWT Auth", "Tailwind CSS"],
     points: [
       "Full-stack E-commerce site with authentication and checkout",
@@ -34,27 +34,18 @@ const projectData = [
   {
     title: "Bulk Mail App",
     img: P2,
-    link: "https://bulkmail-frontend-chi.vercel.app",
+    link: "#",
     tools: ["React", "Node.js", "Nodemailer"],
     points: [
       "Send bulk emails to multiple users at once",
       "Fully responsive UI with backend mail integration"
     ]
   },
-  {
-    title: "Recipe App",
-    img: P3,
-    link: "https://recipe-app-livid-three.vercel.app",
-    tools: ["React", "Tailwind CSS"],
-    points: [
-      "Recipe listing and submission platform",
-      "Responsive design with smooth user experience"
-    ]
-  },
+
   {
     title: "Udemy Clone",
     img: P4,
-    link: "https://thenvanathi.github.io/udemy-clone",
+    link: "https://alashik001.github.io/Udemy_clone/",
     tools: ["HTML", "CSS", "JavaScript"],
     points: [
       "Static Udemy homepage clone",
@@ -64,67 +55,40 @@ const projectData = [
   {
     title: "Greenden 🌱",
     img: P5,
-    link: "https://thenvanathi.github.io/greenden-tailwind",
+    link: "https://alashik001.github.io/greenden-project/",
     tools: ["HTML", "Tailwind CSS"],
     points: [
       "Plant selling website landing page",
       "Beautiful Tailwind-based layout and design"
     ]
   },
-  {
-    title: "Registration Form",
-    img: P6,
-    link: "https://thenvanathi.github.io/registration-form/",
-    tools: ["HTML", "CSS"],
-    points: [
-      "User-friendly registration form design",
-      "Validations using pure HTML and CSS"
-    ]
-  },
+
   {
     title: "Character Counter",
     img: P7,
-    link: "https://thenvanathi.github.io/simple-textarea/",
+    link: "#",
     tools: ["HTML", "CSS", "JavaScript"],
     points: [
       "Real-time character count for textarea",
       "JavaScript DOM manipulation example"
     ]
   },
-  {
-    title: "Birthday Gift Card",
-    img: P8,
-    link: "https://thenvanathi.github.io/gift-card/",
-    tools: ["HTML", "CSS"],
-    points: [
-      "Beautiful birthday greeting card",
-      "Pure CSS animations and design"
-    ]
-  },
+
   {
     title: "Nostra Ecommerce",
     img: P18,
-    link: "https://thenvanathi.github.io/nostra-ecommerce/index.html",
+    link: "https://alashik001.github.io/nostra-ecommerce/",
     tools: ["HTML", "CSS", "JavaScript"],
     points: [
       "E-commerce landing page for clothes",
       "Fully responsive with smooth scroll effects"
     ]
   },
-  {
-    title: "Drum Kit Game",
-    img: P13,
-    link: "https://thenvanathi.github.io/drum-kit-game/",
-    tools: ["HTML", "CSS", "JavaScript"],
-    points: [
-      "Interactive drum kit sound game",
-      "Keyboard event-based sound effects"
-    ]
-  },
+
   {
     title: "Fav Student App",
     img: P14,
-    link: "https://fav-student-ten.vercel.app/",
+    link: "#",
     tools: ["React", "Tailwind CSS"],
     points: [
       "Simple app to add favorite student names",
@@ -134,7 +98,7 @@ const projectData = [
   {
     title: "Fruit App",
     img: P15,
-    link: "https://fruitapp-frontend.vercel.app/",
+    link: "#",
     tools: ["React", "Node.js", "MongoDB"],
     points: [
       "Add fruits dynamically into a database",
@@ -144,7 +108,7 @@ const projectData = [
   {
     title: "MongoDB CRUD Task",
     img: P16,
-    link: "https://mongodb-crud-task.vercel.app/",
+    link: "#",
     tools: ["React", "MongoDB", "Node.js"],
     points: [
       "Basic MongoDB CRUD task demonstration",
@@ -154,7 +118,7 @@ const projectData = [
   {
     title: "Todo App",
     img: P17,
-    link: "https://my-react-app-theta-nine.vercel.app/",
+    link: "#",
     tools: ["React", "Tailwind CSS"],
     points: [
       "Todo list with add and delete functionalities",
@@ -164,7 +128,7 @@ const projectData = [
   {
     title: "Weather App",
     img: P20,
-    link: "https://weather-app-navy-three-35.vercel.app/",
+    link: "#",
     tools: ["React", "OpenWeather API", "Tailwind CSS"],
     points: [
       "Fetches real-time weather data by city",
@@ -174,7 +138,7 @@ const projectData = [
   {
     title: "Joke Generator",
     img: P19,
-    link: "https://joke-generator-ochre-rho.vercel.app/",
+    link: "#",
     tools: ["React", "Joke API"],
     points: [
       "Generates random jokes on button click",
@@ -184,7 +148,7 @@ const projectData = [
   {
     title: "Perfumy",
     img: P9,
-    link: "https://perfumy-react-iota-gules.vercel.app/",
+    link: "#",
     tools: ["React", "Tailwind CSS"],
     points: [
       "Perfume product landing page",
@@ -194,33 +158,15 @@ const projectData = [
   {
     title: "Car Gallery",
     img: P10,
-    link: "https://car-gallery-blue.vercel.app/",
+    link: "https://react-gallery-two-rho.vercel.app/",
     tools: ["React", "Tailwind CSS"],
     points: [
       "Gallery page displaying cars collection",
       "Built with reusable React components"
     ]
   },
-  {
-    title: "Moving Services",
-    img: P11,
-    link: "https://thenvanathi.github.io/bootstrap-MoveIt/",
-    tools: ["HTML", "Bootstrap"],
-    points: [
-      "Landing page for moving services",
-      "Built with Bootstrap grid and responsive utilities"
-    ]
-  },
-  {
-    title: "Counter + RNG App",
-    img: P12,
-    link: "https://react-app-rouge-eta.vercel.app/",
-    tools: ["React", "Tailwind CSS"],
-    points: [
-      "Generates random numbers and counts with simple UI",
-      "Uses React state and components effectively"
-    ]
-  }
+
+
 ];
 
 export default projectData;
