@@ -1,6 +1,6 @@
 import { FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa';
 import profile from '../assets/WhatsApp Image 2025-05-08 at 00.27.30_f3cdf0fc.jpg';
-import resume from '../assets/Al Ashik - CV (2).pdf'; // Import your resume file
+import resume from '../assets/Al Ashik . B - resume.pdf'; // Import your resume file
 
 export default function Hero() {
   return (
